@@ -1,4 +1,4 @@
-"Countries, territories and areas",Year,No. of cases,No. of deaths,No. of cases_median,No. of cases_min,No. of cases_max,No. of deaths_median,No. of deaths_min,No. of deaths_max,WHO Region
+Region,Year,No. of cases,No. of deaths,No. of cases_median,No. of cases_min,No. of cases_max,No. of deaths_median,No. of deaths_min,No. of deaths_max,WHO Region
 Afghanistan, 2021,193232[149000-245000],91[41-150],193232,149000,245000,91,41,150,Eastern Mediterranean
 Algeria, 2021,0,0,0,,,0,,,Africa
 Angola, 2021,8794084[5818000-12740000],17836[11400-29800],8794084,5818000,12740000,17836,11400,29800,Africa
