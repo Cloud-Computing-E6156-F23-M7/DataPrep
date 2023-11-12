@@ -1,4 +1,4 @@
-# DbQueryApp
+# DataPrepApp
 
 ## Install Necessary Packages
 
