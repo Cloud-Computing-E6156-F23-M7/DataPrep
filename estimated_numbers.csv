@@ -1,4 +1,4 @@
-region,year,cases,deaths,cases_median,cases_min,cases_max,deaths_median,deaths_min,deaths_max,FIPS,ISO,ISO2,LAND_AREA_KMSQ_2012,LANGUAGES_EN_2012,WHO_REGION,WORLD_BANK_INCOME_GROUP
+region,year,cases,deaths,cases_median,cases_min,cases_max,deaths_median,deaths_min,deaths_max,fips,iso,iso2,land_area_kmsq_2012,languages_en_2012,who_region,world_bank_income_group
 Afghanistan, 2021,193232[149000-245000],91[41-150],193232,149000,245000,91,41,150,AF,AFG,AF,"652,230","Dari, Pashto, Turkic languages, 30 minor languages",Eastern Mediterranean,Low income
 Algeria, 2021,0,0,0,,,0,,,AG,DZA,DZ,"2,381,740","Arabic, French, Berber dialects",Africa,Upper middle income
 Angola, 2021,8794084[5818000-12740000],17836[11400-29800],8794084,5818000,12740000,17836,11400,29800,AO,AGO,AO,"1,246,700","Portuguese, Bantu,  other African languages ",Africa,Lower middle income
